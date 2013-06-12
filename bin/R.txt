@@ -1,0 +1,6 @@
+int attr typefaceName 0x7f010000
+int string app_name 0x7f020000
+int style AppBaseTheme 0x7f030000
+int style AppTheme 0x7f030001
+int[] styleable EasyCustomTextView { 0x7f010000 }
+int styleable EasyCustomTextView_typefaceName 0
